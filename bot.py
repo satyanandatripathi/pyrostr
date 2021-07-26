@@ -1,6 +1,5 @@
 import os
 
-from heroku3 import from_key
 from pyrogram import Client
 from pyromod import listen
 
